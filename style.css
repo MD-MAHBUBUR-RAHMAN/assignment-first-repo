@@ -25,3 +25,21 @@ h1{
     border-radius: 10px;
     font-weight: 800;
 }
+.my-mission{
+    text-align: center;
+}
+#mission{
+    background-color: rgb(253, 178, 143);
+    padding: 10px 20px;
+    border-radius: 30px;
+} 
+#vission{
+    background-color: rgb(192, 247, 208);
+    padding: 10px 20px;
+    border-radius: 30px;
+}
+#goal{
+    background-color: rgb(219, 219, 219);
+    padding: 10px 20px;
+    border-radius: 30px;
+}
