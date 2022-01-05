@@ -29,16 +29,22 @@ h1{
     text-align: center;
 }
 #mission{
+    width: 25%;
+    margin: 0 2%;
     background-color: rgb(253, 178, 143);
     padding: 10px 20px;
     border-radius: 30px;
 } 
 #vission{
+    width: 25%;
+    margin: 0 2%;
     background-color: rgb(192, 247, 208);
     padding: 10px 20px;
     border-radius: 30px;
 }
 #goal{
+    width: 25%;
+    margin: 0 2% 0 0 ;
     background-color: rgb(219, 219, 219);
     padding: 10px 20px;
     border-radius: 30px;
