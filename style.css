@@ -85,9 +85,11 @@ h1{
 .mid-text{
     text-align: center;
 }
-
 footer{
     background-color: rgb(12, 7, 7);
+}
+footer h1{
+    font-family: 'Dancing Script', cursive
 }
 .footer-text{
     color: white;
