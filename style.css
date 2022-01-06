@@ -1,3 +1,4 @@
+/*global CSS*/
 body {
     font-family:'Poppins', sans-serif;
     margin-left: 20px;
@@ -19,19 +20,21 @@ h1{
 .color-text{
     color: orange;
 }
-.vl{
-    border-left: 10px solid rgb(255, 166, 0);
-    height: 150px;
-    border-radius: 10px;
-    padding-top: 80px;
-}
 .link-button{
     text-decoration: none;
     background-color: rgb(255, 123, 0);
     padding: 15px 20px;
     border-radius: 10px;
     font-weight: 800;
-} 
+}
+/*home sectiom*/
+.vl{
+    border-left: 10px solid rgb(255, 166, 0);
+    height: 150px;
+    border-radius: 10px;
+    padding-top: 80px;
+}
+/*mission sectiom*/
 .my-mission{
     text-align: center;
 }
@@ -61,6 +64,7 @@ h1{
     width: 50%;
     margin-right:30%;
 }
+/*development sectiom*/
 #develop{
     background-image: url(images/shapes/shape-1.png);
     background-size: 300px;
@@ -71,6 +75,7 @@ h1{
     width: 70%;
     margin-left: 5%;
 }
+/*global sectiom*/
 #global{
     background-image: url(images/shapes/shape-1.png);
     background-size: 400px;
@@ -82,7 +87,7 @@ h1{
     width: 700px;
     padding-bottom: 10%;
 }
-
+/*Resume sectiom*/
 #resume img{
     margin: 0 30%; 
     border: 1px none gray;
@@ -91,6 +96,7 @@ h1{
 .mid-text{
     text-align: center;
 }
+/*footer sectiom*/
 footer{
     background-color: rgb(12, 7, 7);
 }
