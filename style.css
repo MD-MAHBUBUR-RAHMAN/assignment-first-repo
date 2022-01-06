@@ -65,3 +65,14 @@ h1{
     width: 70%;
     margin-left: 5%;
 }
+#global{
+    background-image: url(images/shapes/shape-1.png);
+    background-size: 400px;
+    background-repeat: no-repeat;
+    background-position: right bottom;
+}
+#global img{
+    height: 700px;
+    width: 700px;
+    padding-bottom: 10%;
+}
