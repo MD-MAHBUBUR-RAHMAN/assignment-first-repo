@@ -7,7 +7,8 @@ h1{
 }
 .flex-container{
     display: flex;
-    margin-bottom: 50px;
+    margin-top: 20px;
+    margin-bottom: 100px;
 }
 .half-width{
     width: 50%;
@@ -30,7 +31,6 @@ h1{
 }
 #mission{
     width: 25%;
-    height: 50%;
     margin: 0 2%;
     background-color: rgb(253, 178, 143);
     padding: 10px 20px;
@@ -38,7 +38,6 @@ h1{
 } 
 #vission{
     width: 25%;
-    height: 40%;
     margin: 0 2%;
     background-color: rgb(192, 247, 208);
     padding: 10px 20px;
@@ -46,15 +45,23 @@ h1{
 }
 #goal{
     width: 25%;
-    height: 40%;
-    margin: 0 2% 0 0 ;
+    margin: 0 2%;
     background-color: rgb(219, 219, 219);
     padding: 10px 20px;
     border-radius: 30px;
 }
 .illustrator{
-    height: 50%;
     height: 40%;
+    width: 50%;
+    margin-right:30%;
+}
+#develop{
+    background-image: url(images/shapes/shape-1.png);
+    background-size: 300px;
+    background-repeat: no-repeat;
+    background-position: left;
+}
+#develop img{
     width: 70%;
-    margin-right: ;
+    margin-left: 5%;
 }
