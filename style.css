@@ -19,13 +19,19 @@ h1{
 .color-text{
     color: orange;
 }
+.vl{
+    border-left: 10px solid rgb(255, 166, 0);
+    height: 150px;
+    border-radius: 10px;
+    padding-top: 80px;
+}
 .link-button{
     text-decoration: none;
-    background-color: coral;
+    background-color: rgb(255, 123, 0);
     padding: 15px 20px;
     border-radius: 10px;
     font-weight: 800;
-}
+} 
 .my-mission{
     text-align: center;
 }
