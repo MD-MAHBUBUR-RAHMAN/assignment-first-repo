@@ -8,7 +8,7 @@ h1{
 .flex-container{
     display: flex;
     margin-top: 20px;
-    margin-bottom: 100px;
+    margin-bottom: 50px;
 }
 .half-width{
     width: 50%;
@@ -75,4 +75,20 @@ h1{
     height: 700px;
     width: 700px;
     padding-bottom: 10%;
+}
+
+#resume img{
+    margin: 0 30%; 
+    border: 1px none gray;
+    box-shadow: 2px 2px 25px 4px rgb(60, 66, 66);
+}
+.mid-text{
+    text-align: center;
+}
+
+footer{
+    background-color: rgb(12, 7, 7);
+}
+.footer-text{
+    color: white;
 }
